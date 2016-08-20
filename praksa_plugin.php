@@ -28,4 +28,3 @@ function shortcode_register()
 
 add_action('init', 'shortcode_register');
 
-?>
